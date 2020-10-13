@@ -1,0 +1,50 @@
+.jumbotron {
+    padding:70px 30px 70px 30px;
+    margin:0px auto;
+    background: #0259dd ;
+    color:floralwhite;
+}
+
+address{
+    font-size:80%;
+    margin:0px;
+    color:#0f0f0f;
+}
+
+.row-header{
+    margin:0px auto;
+    padding:0px;
+}
+
+.row-content {
+    margin:15px auto;
+    padding: 10px 15px 15px 10px;
+    border-bottom: 1px ridge;
+    min-height:40px;
+    background-color: #82bDFf;
+}
+
+.footer{
+    background-color: #0259dd;
+    margin:0px auto;
+    padding: 20px 0px 20px 0px;
+}
+
+body{
+    padding:50px 0px 0px 0px;
+    z-index:0;
+    background-color: #295bc0;
+}
+
+.card{
+  background-color: #3131ff;
+  color:#ffffff;
+}
+.card-button{
+  background-color: #3131ff;
+  color:#ffffff;
+}
+
+.navbar-dark {
+     background-color: #0259dd;
+}
